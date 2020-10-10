@@ -3,12 +3,11 @@
 
 <html>
     <head>
-       
+<link rel="stylesheet" type="text/css" href = "stylesheet.css"/>  
         <title>About Me</title>
     </head>
    
         <body>
-         <link rel="stylesheet" href = "css/stylesheet.css"/>
           <img src="IMG_20200917_100446.jpg" width="280":height="375"/> 
         <h2>
            Fher Carlyn L. Mingi
