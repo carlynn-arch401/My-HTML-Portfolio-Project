@@ -3,6 +3,7 @@
 
 <html>
     <head>
+        <link rel="stylesheet" href = "css/stylesheet.css"/>
         <title>About Me</title>
     </head>
    
