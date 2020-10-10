@@ -1,0 +1,47 @@
+
+  body {
+    color: skyblue;
+    font-weight: bolder;
+    font-size: 25px;
+    background-image: url(IMG_20201010_125611.jpg);
+  justify-self: padding-bottom: 10%;
+                background-size: cover;
+                text-align: center;
+                font-family: Helvetica neau;
+                background-repeat: no-repeat;
+  }
+  .content {
+    display:flex;
+    padding: 20px;
+  }
+  image{
+    padding: 20px;
+  }
+  button{
+    background: gray;
+    border: none;
+    color: white;
+  }
+  img src {
+    border-radius: 0px;
+  }
+    
+  h1{
+      color:gray;
+      text-shadow:-1px 2px;
+}
+h2{
+        color: whitesmoke;
+        text-shadow:-1px 2px;
+}
+}
+h3{
+        color:white;
+        text-shadow:-1px 2px;
+}
+p{
+        color:white;    
+}
+li{
+        color:white;
+}
