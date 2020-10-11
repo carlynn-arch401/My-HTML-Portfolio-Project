@@ -1,0 +1,54 @@
+
+  body {
+    color: skyblue;
+    font-weight: bolder;
+    font-size: 25px;
+    background: url(IMG_20201010_125611.jpg);
+  background-position:  center;
+            padding: bottom;
+                background-size: cover;
+                text-align: center;
+                font-family: Helvetica neau;
+                background-repeat: no-repeat;
+ 
+      header {
+          background-color: darkblue;
+          text-shadow: 5px black;
+      }
+    
+  h1{
+      color:gray;
+      font-family: sans-serif;
+      text-shadow:-1px 2px;
+}
+h2{
+        color: whitesmoke;
+    font-family: sans-serif
+        text-shadow:-1px 2px;
+    padding: inherit
+}
+}
+h3{
+        color:white;
+    font-family: sans-serif;
+        text-shadow:-1px 2px;
+}
+p{
+        color:white;
+    font-family: sans-serif
+    font-size: 35 px;
+    padding: inherit;
+    
+}
+ul li{
+        color:white;
+    font-family: serif;
+    font-weight:lighter;
+    font-kerning: auto;
+    padding: inherit;
+}
+  button{
+    background: gray;
+    border: none;
+    color: white;
+}
