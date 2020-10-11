@@ -1,14 +1,21 @@
 # My-HTML-Portfolio-Project
 <!DOCTYPE html>
 
-<html>
-    <head>
-<link rel="stylesheet" type="text/css" href = "stylesheet.css"/>  
+<html lang= "en">
+<head>
+    <meta charset="UTF-8">
+    <meta name= "viewport" content = " width = device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href = "stylesheet.css"/>  
         <title> My Personal Website</title>
     </head>
+    <header>
+        <div class= "main">
+            <h1> Know me more</h1>
+            </header>
    
         <body>
-          <img src="IMG_20200917_100446.jpg" width="280":height="375"/> 
+          <img src="IMG_20201010_224741.jpg" width="280":height="375"/> 
         <h2>
            Fher Carlyn L. Mingi
         </h2>
