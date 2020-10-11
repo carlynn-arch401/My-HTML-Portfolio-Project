@@ -3,6 +3,7 @@
     color: gray;
     font-weight: bolder;
     font-size: 25px;
+    text-shadow: 1px black;
     background: url(IMG_20201010_125611.jpg);
   background-position:  center;
             padding: bottom;
@@ -11,26 +12,26 @@
                 font-family: Helvetica neau;
                 background-repeat: no-repeat;
  
-      header {
+header {
           background-color: darkblue;
           text-shadow: 5px black;
       }
     
-  h1{
+h1{
       color:gray;
-      font-family: sans-serif;
+      font-family: Helvetica, sans-serif;
       text-shadow:-1px 2px;
 }
 h2{
         color: gray;
-    font-family: sans-serif
+    font-family: Helvetica;
         text-shadow:-1px 2px;
-    padding: inherit
+    padding: inherit;
 }
 }
 h3{
         color:gray;
-    font-family: sans-serif;
+    font-family: Helvetica;
         text-shadow:-1px 2px;
 }
 p{
@@ -41,8 +42,8 @@ p{
     
 }
 ul li{
-        color:gray;
-    font-family: serif;
+        color:white;
+    font-family: sans-serif;
     font-weight:lighter;
     font-kerning: auto;
     padding: inherit;
