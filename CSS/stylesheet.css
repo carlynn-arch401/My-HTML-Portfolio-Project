@@ -1,0 +1,110 @@
+<<<<<<< HEAD:CSS/stylesheet.css
+  body {
+    color: skyblue;
+    font-weight: bolder;
+    font-size: 25px;
+    background-image: url(IMG_20201010_125611.jpg);
+  justify-self: padding-bottom: 10%;
+                background-size: cover;
+                text-align: center;
+                font-family: Helvetica neau;
+                background-repeat: no-repeat;
+  }
+  .content {
+    display:flex;
+    padding: 20px;
+  }
+  image{
+    padding: 20px;
+  }
+  button{
+    background: gray;
+    border: none;
+    color: white;
+  }
+  img src {
+    border-radius: 0px;
+  }
+    
+  h1{
+      color:gray;
+      text-shadow:-1px 2px;
+}
+h2{
+        color: whitesmoke;
+        text-shadow:-1px 2px;
+}
+}
+h3{
+        color:white;
+        text-shadow:-1px 2px;
+}
+p{
+        color:white;    
+}
+li{
+        color:white;
+}
+=======
+
+  body {
+    color: skyblue;
+    font-weight: bolder;
+    font-size: 25px;
+    background-image: url(IMG_20201010_125611.jpg);
+  justify-self: padding-bottom: 10%;
+                background-size: cover;
+                text-align: center;
+                font-family: Helvetica neau;
+                background-repeat: no-repeat;
+  }
+  .content {
+    display:flex;
+    padding: 20px;
+  }
+  image{
+    padding: 20px;
+  }
+  background-image{
+    image-resolution: from-image;
+      border-radius: 25 px;
+    border-radius: 0px;
+  }
+    
+  h1{
+      color:gray;
+      font-family: sans-serif;
+      text-shadow:-1px 2px;
+}
+h2{
+        color: whitesmoke;
+    font-family: sans-serif
+        text-shadow:-1px 2px;
+    padding: inherit
+}
+}
+h3{
+        color:white;
+    font-family: sans-serif;
+        text-shadow:-1px 2px;
+}
+p{
+        color:white;
+    font-family: sans-serif
+    font-size: 35 px;
+    padding: inherit;
+    
+}
+ul li{
+        color:white;
+    font-family: serif;
+    font-weight:lighter;
+    font-kerning: auto;
+    padding: inherit
+}
+  button{
+    background: gray;
+    border: none;
+    color: white;
+}
+>>>>>>> a1b3467dcb5f746cb92ecd40033aff1eb7b23f12:css/stylesheet.txt

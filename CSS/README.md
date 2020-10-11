@@ -3,7 +3,8 @@
 
 <html>
     <head>
-        <title>About Me</title>
+<link rel="stylesheet" type="text/css" href = "stylesheet.css"/>  
+        <title> My Personal Website</title>
     </head>
    
         <body>
@@ -26,7 +27,7 @@
         <em>
          <p>
             I am a third year Information System student and an aspiring business analyst and web analyst.
-          I am eager to achive my goals no matter how hard life is.
+          I am eager to achieve my goals no matter how hard life is.
          </p>
         </em>  
             <hr>
@@ -50,5 +51,11 @@
               <li>Watching Drama</li>
                 <li>Net Surfing</li>
              </em>
+             <button> Click here to Learn More</button>
+             <li>
+<div id= "box-container">
+    <div id= "facebook"></div>
+    <div id= "instagram"></div>
+</li>
       </body>
 </html>
