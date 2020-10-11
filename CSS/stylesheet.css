@@ -1,6 +1,6 @@
 
   body {
-    color: white;
+    color: gray;
     font-weight: bolder;
     font-size: 25px;
     background: url(IMG_20201010_125611.jpg);
@@ -22,26 +22,26 @@
       text-shadow:-1px 2px;
 }
 h2{
-        color: whitesmoke;
+        color: gray;
     font-family: sans-serif
         text-shadow:-1px 2px;
     padding: inherit
 }
 }
 h3{
-        color:white;
+        color:gray;
     font-family: sans-serif;
         text-shadow:-1px 2px;
 }
 p{
-        color:white;
+        color:gray;
     font-family: sans-serif
     font-size: 35 px;
     padding: inherit;
     
 }
 ul li{
-        color:white;
+        color:gray;
     font-family: serif;
     font-weight:lighter;
     font-kerning: auto;
