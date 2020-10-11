@@ -47,7 +47,7 @@ ul li{
     font-kerning: auto;
     padding: inherit;
 }
-  button{
+  .button{
     background: gray;
     border: none;
     color: white;
