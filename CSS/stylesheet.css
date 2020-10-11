@@ -4,13 +4,13 @@
     color: skyblue;
     font-weight: bolder;
     font-size: 25px;
-    background-image: url(IMG_20201010_125611.jpg);
-    background-position:justify;
+    background: url(IMG_20201010_125611.jpg);
+    background-position:100% 0;
                 padding-bottom: 10%;
                 background-size: cover;
                 text-align: center;
                 font-family: Helvetica neau;
-                background-repeat: no-repeat;
+                background-repeat: center no-repeat;
   }
 header {
   background-color: darkblue;
