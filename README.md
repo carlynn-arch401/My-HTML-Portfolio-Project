@@ -8,7 +8,7 @@
     </head>
    
         <body>
-          <img src="IMG_20200917_100446.jpg" width="280":height="375"/> 
+          <img src="IMG_20201010_224741.jpg" width="280":height="375"/> 
         <h2>
            Fher Carlyn L. Mingi
         </h2>
