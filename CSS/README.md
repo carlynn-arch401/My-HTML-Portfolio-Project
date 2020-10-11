@@ -4,7 +4,7 @@
 <html>
     <head>
 <link rel="stylesheet" type="text/css" href = "stylesheet.css"/>  
-        <title> My Personal Website</title>
+        <title> About Me</title>
     </head>
    
         <body>
