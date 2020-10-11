@@ -23,9 +23,9 @@ h1{
       text-shadow:-1px 2px;
 }
 h2{
-        color: gray;
+        color: whitesmoke;
     font-family: Helvetica;
-        text-shadow:-1px 2px;
+        text-shadow:-1px 2px black;
     padding: inherit;
 }
     h3{
